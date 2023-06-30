@@ -1,1 +1,1 @@
-
+Extracting candidate regions for different objects from an image using Faster RCNN Resnet, then finding corresponding regions for different queries choosing the maximum cosine similarity between CLIP Encoding for the image regions and the queries. 
